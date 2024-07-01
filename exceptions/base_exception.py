@@ -1,0 +1,2 @@
+class MycegoTextException(Exception):
+    pass
